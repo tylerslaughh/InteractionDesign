@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+  font-size: 55px;
+  background-color: pink;
+  font-family:monospace;
+}
+div.a {
+  background-color: pink;
+  text-align: center;
+  font-family: monospace;
+}
+div.b {
+  background-color: pink;
+  text-align: center;
+  font-family: monospace;
+}
+div.c {
+  background-color: pink;
+  text-align: center;
+  font-family: monospace;
+}
+div.d {
+  background-color: pink;
+  text-align: center;
+  font-family: monospace;
+}
+
+p {
+  font-size: 20px;
+}
+h2 {
+  font-size: 25px;
+}
+img {
+margin-left: 255px;
+}
+html {
+  background-color: Grey;
+}
